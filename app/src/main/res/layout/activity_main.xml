@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/type_indian_language"
+    android:orientation="vertical"
+    tools:context="com.example.android.namasteindia.MainActivity">
+
+
+    <TextView
+        android:id="@+id/welcome_text"
+        style="@style/TextStyle"
+        android:text="Welcome!!!" />
+
+    <Button
+        style="@style/ButtonStyle"
+        android:onClick="hindiHelp"
+        android:text="Hindi" />
+
+    <Button
+        style="@style/ButtonStyle"
+        android:onClick="marathiHelp"
+        android:text="Marathi" />
+
+
+    <Button
+        style="@style/ButtonStyle"
+        android:onClick="gujaratiHelp"
+        android:text="Gujarati" />
+
+
+    <Button
+        style="@style/ButtonStyle"
+        android:onClick="bengaliHelp"
+        android:text="Bengali" />
+
+    <Button
+        style="@style/ButtonStyle"
+        android:onClick="kannadaHelp"
+        android:text="Kannada" />
+
+    <Button
+        style="@style/ButtonStyle"
+        android:onClick="tamilHelp"
+        android:text="Tamil" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="8dp"
+        android:layout_marginLeft="8dp"
+        android:layout_marginTop="8dp"
+        android:onClick="aboutInfo"
+        android:text="About"
+        android:textAllCaps="false"
+        android:layout_gravity="center_horizontal"
+        android:textSize="16sp" />
+</LinearLayout>
+

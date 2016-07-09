@@ -1,0 +1,198 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        tools:context="com.example.android.namasteindia.BengaliLanguage">
+
+        <LinearLayout
+            android:id="@+id/linear_images"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+            <ImageView
+                android:id="@+id/hindi_map_img"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_alignParentLeft="true"
+                android:layout_weight="1"
+                android:adjustViewBounds="true"
+                android:scaleType="fitStart"
+                android:src="@drawable/westbengal_location_map" />
+
+            <ImageView
+                android:id="@+id/hindi_monument_img"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:adjustViewBounds="true"
+                android:scaleType="fitStart"
+                android:src="@drawable/bengali_monument" />
+
+        </LinearLayout>
+
+        <TextView
+            android:id="@+id/bengali_lang_text"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/linear_images"
+            android:layout_marginLeft="4dp"
+            android:layout_marginTop="8dp"
+            android:text="Bengali is spoken by more than 210 million people as a first or second language, with some 100 million Bengali speakers in Bangladesh; about 85 million in India, primarily in the states of West Bengal, Assam, and Tripura; and sizable immigrant communities in the United Kingdom, the United States, and the Middle East."
+            android:textColor="@android:color/black"
+            android:textSize="16sp" />
+
+        <TableLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/bengali_lang_text"
+            android:shrinkColumns="1">
+
+            <TableRow
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:padding="4dp">
+
+                <TextView
+                    style="@style/TextStyle"
+                    android:text="English" />
+
+                <TextView
+                    style="@style/TextStyle"
+                    android:text="বাংলা (Bengali)" />
+            </TableRow>
+
+            <TableRow
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:padding="4dp">
+
+                <TextView
+                    style="@style/TextStyle1"
+                    android:text="Welcome" />
+
+                <TextView
+                    style="@style/TextStyle1"
+                    android:text="স্বাগতম (shagotom)" />
+            </TableRow>
+
+            <TableRow
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:padding="4dp">
+
+                <TextView
+                    style="@style/TextStyle1"
+                    android:text="Hello" />
+
+                <TextView
+                    style="@style/TextStyle1"
+                    android:text="নমস্কার (nômoshkar)" />
+            </TableRow>
+
+            <TableRow
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:padding="4dp">
+
+                <TextView
+                    style="@style/TextStyle1"
+                    android:text="How are you?" />
+
+                <TextView
+                    style="@style/TextStyle1"
+                    android:text="(আপনারা) কেমন আছেন?\n((apnara) kêmon achhen?)" />
+            </TableRow>
+
+            <TableRow
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:padding="4dp">
+
+                <TextView
+                    style="@style/TextStyle1"
+                    android:text="What's your name?" />
+
+                <TextView
+                    style="@style/TextStyle1"
+                    android:text="আপনার নাম কি? (apnar nam ki?)" />
+            </TableRow>
+
+            <TableRow
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:padding="4dp">
+
+                <TextView
+                    style="@style/TextStyle1"
+                    android:text="My name is ..." />
+
+                <TextView
+                    style="@style/TextStyle1"
+                    android:text="আমার নাম ... (amar nam ...)" />
+            </TableRow>
+
+            <TableRow
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:padding="4dp">
+
+                <TextView
+                    style="@style/TextStyle1"
+                    android:text="I'm from ..." />
+
+                <TextView
+                    style="@style/TextStyle1"
+                    android:text="আমি ... থেকে আসছি\n(ami ... theke ashchhi)" />
+            </TableRow>
+
+            <TableRow
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:padding="4dp">
+
+                <TextView
+                    style="@style/TextStyle1"
+                    android:text="Have a nice day" />
+
+                <TextView
+                    style="@style/TextStyle1"
+                    android:text="শুভ দিন (su din)" />
+            </TableRow>
+
+            <TableRow
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:padding="4dp">
+
+                <TextView
+                    style="@style/TextStyle1"
+                    android:text="Excuse me" />
+
+                <TextView
+                    style="@style/TextStyle1"
+                    android:text="এই যে। (ei je)" />
+            </TableRow>
+
+            <TableRow
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:padding="4dp">
+
+                <TextView
+                    style="@style/TextStyle1"
+                    android:text="Thank you" />
+
+                <TextView
+                    style="@style/TextStyle1"
+                    android:text="ধন্যবাদ (dhonnobad)" />
+            </TableRow>
+
+        </TableLayout>
+    </RelativeLayout>
+
+</ScrollView>

@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Namaste India</string>
+    <string name="title_activity_hindi">Hindi</string>
+    <string name="title_activity_marathi">Marathi</string>
+    <string name="title_activity_gujarati">Gujarati</string>
+    <string name="title_activity_kannada">Kannada</string>
+    <string name="title_activity_bengali">Bengali</string>
+    <string name="title_activity_tamil">Tamil</string>
+    <string name="title_activity_about">About</string>
+
+</resources>

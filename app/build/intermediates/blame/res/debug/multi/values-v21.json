@@ -1,0 +1,1075 @@
+[
+    {
+        "outputFile": "C:\\Users\\Kavita\\AndroidStudioProjects\\NamasteIndia\\app\\build\\intermediates\\res\\merged\\debug\\values-v21\\values-v21.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 8,
+                    "endColumn": 16,
+                    "endOffset": 439
+                },
+                "from": {
+                    "file": "C:\\Users\\Kavita\\AndroidStudioProjects\\NamasteIndia\\app\\src\\main\\res\\values-v21\\styles.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 8,
+                        "startOffset": 63,
+                        "endLine": 9,
+                        "endColumn": 16,
+                        "endOffset": 453
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 444,
+                    "endColumn": 90,
+                    "endOffset": 530
+                },
+                "from": {
+                    "file": "C:\\Users\\Kavita\\AndroidStudioProjects\\NamasteIndia\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\values-v21\\values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 535,
+                    "endColumn": 102,
+                    "endOffset": 633
+                },
+                "from": {
+                    "file": "C:\\Users\\Kavita\\AndroidStudioProjects\\NamasteIndia\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\values-v21\\values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 638,
+                    "endColumn": 102,
+                    "endOffset": 736
+                },
+                "from": {
+                    "file": "C:\\Users\\Kavita\\AndroidStudioProjects\\NamasteIndia\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\values-v21\\values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 741,
+                    "endColumn": 104,
+                    "endOffset": 841
+                },
+                "from": {
+                    "file": "C:\\Users\\Kavita\\AndroidStudioProjects\\NamasteIndia\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\values-v21\\values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 846,
+                    "endColumn": 106,
+                    "endOffset": 948
+                },
+                "from": {
+                    "file": "C:\\Users\\Kavita\\AndroidStudioProjects\\NamasteIndia\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\values-v21\\values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 953,
+                    "endColumn": 108,
+                    "endOffset": 1057
+                },
+                "from": {
+                    "file": "C:\\Users\\Kavita\\AndroidStudioProjects\\NamasteIndia\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\values-v21\\values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 1062,
+                    "endColumn": 108,
+                    "endOffset": 1166
+                },
+                "from": {
+                    "file": "C:\\Users\\Kavita\\AndroidStudioProjects\\NamasteIndia\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\values-v21\\values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 1171,
+                    "endColumn": 108,
+                    "endOffset": 1275
+                },
+                "from": {
+                    "file": "C:\\Users\\Kavita\\AndroidStudioProjects\\NamasteIndia\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\values-v21\\values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1280,
+                    "endColumn": 108,
+                    "endOffset": 1384
+                },
+                "from": {
+                    "file": "C:\\Users\\Kavita\\AndroidStudioProjects\\NamasteIndia\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\values-v21\\values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1389,
+                    "endColumn": 108,
+                    "endOffset": 1493
+                },
+                "from": {
+                    "file": "C:\\Users\\Kavita\\AndroidStudioProjects\\NamasteIndia\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\values-v21\\values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1498,
+                    "endColumn": 106,
+                    "endOffset": 1600
+                },
+                "from": {
+                    "file": "C:\\Users\\Kavita\\AndroidStudioProjects\\NamasteIndia\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\values-v21\\values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1605,
+                    "endColumn": 102,
+                    "endOffset": 1703
+                },
+                "from": {
+                    "file": "C:\\Users\\Kavita\\AndroidStudioProjects\\NamasteIndia\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\values-v21\\values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 1708,
+                    "endColumn": 118,
+                    "endOffset": 1822
+                },
+                "from": {
+                    "file": "C:\\Users\\Kavita\\AndroidStudioProjects\\NamasteIndia\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\values-v21\\values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 1827,
+                    "endLine": 23,
+                    "endColumn": 12,
+                    "endOffset": 1977
+                },
+                "from": {
+                    "file": "C:\\Users\\Kavita\\AndroidStudioProjects\\NamasteIndia\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\values-v21\\values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 1982,
+                    "endLine": 25,
+                    "endColumn": 12,
+                    "endOffset": 2132
+                },
+                "from": {
+                    "file": "C:\\Users\\Kavita\\AndroidStudioProjects\\NamasteIndia\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\values-v21\\values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 2137,
+                    "endColumn": 104,
+                    "endOffset": 2237
+                },
+                "from": {
+                    "file": "C:\\Users\\Kavita\\AndroidStudioProjects\\NamasteIndia\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\values-v21\\values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 2242,
+                    "endColumn": 120,
+                    "endOffset": 2358
+                },
+                "from": {
+                    "file": "C:\\Users\\Kavita\\AndroidStudioProjects\\NamasteIndia\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\values-v21\\values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 2363,
+                    "endColumn": 100,
+                    "endOffset": 2459
+                },
+                "from": {
+                    "file": "C:\\Users\\Kavita\\AndroidStudioProjects\\NamasteIndia\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\values-v21\\values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 2464,
+                    "endLine": 30,
+                    "endColumn": 12,
+                    "endOffset": 2606
+                },
+                "from": {
+                    "file": "C:\\Users\\Kavita\\AndroidStudioProjects\\NamasteIndia\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\values-v21\\values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 31,
+                    "startColumn": 4,
+                    "startOffset": 2611,
+                    "endLine": 32,
+                    "endColumn": 12,
+                    "endOffset": 2747
+                },
+                "from": {
+                    "file": "C:\\Users\\Kavita\\AndroidStudioProjects\\NamasteIndia\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\values-v21\\values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 33,
+                    "startColumn": 4,
+                    "startOffset": 2752,
+                    "endColumn": 102,
+                    "endOffset": 2850
+                },
+                "from": {
+                    "file": "C:\\Users\\Kavita\\AndroidStudioProjects\\NamasteIndia\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\values-v21\\values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 34,
+                    "startColumn": 4,
+                    "startOffset": 2855,
+                    "endColumn": 118,
+                    "endOffset": 2969
+                },
+                "from": {
+                    "file": "C:\\Users\\Kavita\\AndroidStudioProjects\\NamasteIndia\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\values-v21\\values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 35,
+                    "startColumn": 4,
+                    "startOffset": 2974,
+                    "endColumn": 106,
+                    "endOffset": 3076
+                },
+                "from": {
+                    "file": "C:\\Users\\Kavita\\AndroidStudioProjects\\NamasteIndia\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\values-v21\\values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 36,
+                    "startColumn": 4,
+                    "startOffset": 3081,
+                    "endColumn": 102,
+                    "endOffset": 3179
+                },
+                "from": {
+                    "file": "C:\\Users\\Kavita\\AndroidStudioProjects\\NamasteIndia\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\values-v21\\values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 37,
+                    "startColumn": 4,
+                    "startOffset": 3184,
+                    "endLine": 38,
+                    "endColumn": 12,
+                    "endOffset": 3334
+                },
+                "from": {
+                    "file": "C:\\Users\\Kavita\\AndroidStudioProjects\\NamasteIndia\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\values-v21\\values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 39,
+                    "startColumn": 4,
+                    "startOffset": 3339,
+                    "endLine": 40,
+                    "endColumn": 12,
+                    "endOffset": 3505
+                },
+                "from": {
+                    "file": "C:\\Users\\Kavita\\AndroidStudioProjects\\NamasteIndia\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\values-v21\\values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 41,
+                    "startColumn": 4,
+                    "startOffset": 3510,
+                    "endLine": 42,
+                    "endColumn": 12,
+                    "endOffset": 3654
+                },
+                "from": {
+                    "file": "C:\\Users\\Kavita\\AndroidStudioProjects\\NamasteIndia\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\values-v21\\values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 43,
+                    "startColumn": 4,
+                    "startOffset": 3659,
+                    "endLine": 44,
+                    "endColumn": 12,
+                    "endOffset": 3819
+                },
+                "from": {
+                    "file": "C:\\Users\\Kavita\\AndroidStudioProjects\\NamasteIndia\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\values-v21\\values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 45,
+                    "startColumn": 4,
+                    "startOffset": 3824,
+                    "endLine": 46,
+                    "endColumn": 12,
+                    "endOffset": 3976
+                },
+                "from": {
+                    "file": "C:\\Users\\Kavita\\AndroidStudioProjects\\NamasteIndia\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\values-v21\\values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 47,
+                    "startColumn": 4,
+                    "startOffset": 3981,
+                    "endLine": 48,
+                    "endColumn": 12,
+                    "endOffset": 4127
+                },
+                "from": {
+                    "file": "C:\\Users\\Kavita\\AndroidStudioProjects\\NamasteIndia\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\values-v21\\values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 49,
+                    "startColumn": 4,
+                    "startOffset": 4132,
+                    "endColumn": 118,
+                    "endOffset": 4246
+                },
+                "from": {
+                    "file": "C:\\Users\\Kavita\\AndroidStudioProjects\\NamasteIndia\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\values-v21\\values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 50,
+                    "startColumn": 4,
+                    "startOffset": 4251,
+                    "endLine": 51,
+                    "endColumn": 12,
+                    "endOffset": 4395
+                },
+                "from": {
+                    "file": "C:\\Users\\Kavita\\AndroidStudioProjects\\NamasteIndia\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\values-v21\\values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 52,
+                    "startColumn": 4,
+                    "startOffset": 4400,
+                    "endLine": 53,
+                    "endColumn": 12,
+                    "endOffset": 4544
+                },
+                "from": {
+                    "file": "C:\\Users\\Kavita\\AndroidStudioProjects\\NamasteIndia\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\values-v21\\values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 54,
+                    "startColumn": 4,
+                    "startOffset": 4549,
+                    "endColumn": 111,
+                    "endOffset": 4656
+                },
+                "from": {
+                    "file": "C:\\Users\\Kavita\\AndroidStudioProjects\\NamasteIndia\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\values-v21\\values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 55,
+                    "startColumn": 4,
+                    "startOffset": 4661,
+                    "endColumn": 146,
+                    "endOffset": 4803
+                },
+                "from": {
+                    "file": "C:\\Users\\Kavita\\AndroidStudioProjects\\NamasteIndia\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\values-v21\\values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 56,
+                    "startColumn": 4,
+                    "startOffset": 4808,
+                    "endLine": 57,
+                    "endColumn": 12,
+                    "endOffset": 4956
+                },
+                "from": {
+                    "file": "C:\\Users\\Kavita\\AndroidStudioProjects\\NamasteIndia\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\values-v21\\values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 58,
+                    "startColumn": 4,
+                    "startOffset": 4961,
+                    "endLine": 59,
+                    "endColumn": 12,
+                    "endOffset": 5103
+                },
+                "from": {
+                    "file": "C:\\Users\\Kavita\\AndroidStudioProjects\\NamasteIndia\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\values-v21\\values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 60,
+                    "startColumn": 4,
+                    "startOffset": 5108,
+                    "endColumn": 74,
+                    "endOffset": 5178
+                },
+                "from": {
+                    "file": "C:\\Users\\Kavita\\AndroidStudioProjects\\NamasteIndia\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\values-v21\\values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 61,
+                    "startColumn": 4,
+                    "startOffset": 5183,
+                    "endColumn": 88,
+                    "endOffset": 5267
+                },
+                "from": {
+                    "file": "C:\\Users\\Kavita\\AndroidStudioProjects\\NamasteIndia\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\values-v21\\values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 62,
+                    "startColumn": 4,
+                    "startOffset": 5272,
+                    "endColumn": 86,
+                    "endOffset": 5354
+                },
+                "from": {
+                    "file": "C:\\Users\\Kavita\\AndroidStudioProjects\\NamasteIndia\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\values-v21\\values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 63,
+                    "startColumn": 4,
+                    "startOffset": 5359,
+                    "endColumn": 100,
+                    "endOffset": 5455
+                },
+                "from": {
+                    "file": "C:\\Users\\Kavita\\AndroidStudioProjects\\NamasteIndia\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\values-v21\\values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 64,
+                    "startColumn": 4,
+                    "startOffset": 5460,
+                    "endLine": 107,
+                    "endColumn": 12,
+                    "endOffset": 8523
+                },
+                "from": {
+                    "file": "C:\\Users\\Kavita\\AndroidStudioProjects\\NamasteIndia\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\values-v21\\values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 108,
+                    "startColumn": 4,
+                    "startOffset": 8528,
+                    "endLine": 110,
+                    "endColumn": 12,
+                    "endOffset": 8709
+                },
+                "from": {
+                    "file": "C:\\Users\\Kavita\\AndroidStudioProjects\\NamasteIndia\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\values-v21\\values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 111,
+                    "startColumn": 4,
+                    "startOffset": 8714,
+                    "endLine": 154,
+                    "endColumn": 12,
+                    "endOffset": 11789
+                },
+                "from": {
+                    "file": "C:\\Users\\Kavita\\AndroidStudioProjects\\NamasteIndia\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\values-v21\\values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 155,
+                    "startColumn": 4,
+                    "startOffset": 11794,
+                    "endLine": 157,
+                    "endColumn": 12,
+                    "endOffset": 11987
+                },
+                "from": {
+                    "file": "C:\\Users\\Kavita\\AndroidStudioProjects\\NamasteIndia\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\values-v21\\values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 158,
+                    "startColumn": 4,
+                    "startOffset": 11992,
+                    "endLine": 159,
+                    "endColumn": 12,
+                    "endOffset": 12110
+                },
+                "from": {
+                    "file": "C:\\Users\\Kavita\\AndroidStudioProjects\\NamasteIndia\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\values-v21\\values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 160,
+                    "startColumn": 4,
+                    "startOffset": 12115,
+                    "endLine": 161,
+                    "endColumn": 12,
+                    "endOffset": 12233
+                },
+                "from": {
+                    "file": "C:\\Users\\Kavita\\AndroidStudioProjects\\NamasteIndia\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\values-v21\\values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 162,
+                    "startColumn": 4,
+                    "startOffset": 12238,
+                    "endLine": 163,
+                    "endColumn": 12,
+                    "endOffset": 12346
+                },
+                "from": {
+                    "file": "C:\\Users\\Kavita\\AndroidStudioProjects\\NamasteIndia\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\values-v21\\values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 164,
+                    "startColumn": 4,
+                    "startOffset": 12351,
+                    "endLine": 166,
+                    "endColumn": 12,
+                    "endOffset": 12529
+                },
+                "from": {
+                    "file": "C:\\Users\\Kavita\\AndroidStudioProjects\\NamasteIndia\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\values-v21\\values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 167,
+                    "startColumn": 4,
+                    "startOffset": 12534,
+                    "endLine": 168,
+                    "endColumn": 12,
+                    "endOffset": 12660
+                },
+                "from": {
+                    "file": "C:\\Users\\Kavita\\AndroidStudioProjects\\NamasteIndia\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\values-v21\\values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 169,
+                    "startColumn": 4,
+                    "startOffset": 12665,
+                    "endLine": 171,
+                    "endColumn": 12,
+                    "endOffset": 12861
+                },
+                "from": {
+                    "file": "C:\\Users\\Kavita\\AndroidStudioProjects\\NamasteIndia\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\values-v21\\values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 172,
+                    "startColumn": 4,
+                    "startOffset": 12866,
+                    "endColumn": 88,
+                    "endOffset": 12950
+                },
+                "from": {
+                    "file": "C:\\Users\\Kavita\\AndroidStudioProjects\\NamasteIndia\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\values-v21\\values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 173,
+                    "startColumn": 4,
+                    "startOffset": 12955,
+                    "endColumn": 110,
+                    "endOffset": 13061
+                },
+                "from": {
+                    "file": "C:\\Users\\Kavita\\AndroidStudioProjects\\NamasteIndia\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\values-v21\\values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 174,
+                    "startColumn": 4,
+                    "startOffset": 13066,
+                    "endColumn": 126,
+                    "endOffset": 13188
+                },
+                "from": {
+                    "file": "C:\\Users\\Kavita\\AndroidStudioProjects\\NamasteIndia\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\values-v21\\values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 175,
+                    "startColumn": 4,
+                    "startOffset": 13193,
+                    "endColumn": 100,
+                    "endOffset": 13289
+                },
+                "from": {
+                    "file": "C:\\Users\\Kavita\\AndroidStudioProjects\\NamasteIndia\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\values-v21\\values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 176,
+                    "startColumn": 4,
+                    "startOffset": 13294,
+                    "endColumn": 94,
+                    "endOffset": 13384
+                },
+                "from": {
+                    "file": "C:\\Users\\Kavita\\AndroidStudioProjects\\NamasteIndia\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\values-v21\\values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 177,
+                    "startColumn": 4,
+                    "startOffset": 13389,
+                    "endColumn": 122,
+                    "endOffset": 13507
+                },
+                "from": {
+                    "file": "C:\\Users\\Kavita\\AndroidStudioProjects\\NamasteIndia\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\values-v21\\values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 178,
+                    "startColumn": 4,
+                    "startOffset": 13512,
+                    "endColumn": 128,
+                    "endOffset": 13636
+                },
+                "from": {
+                    "file": "C:\\Users\\Kavita\\AndroidStudioProjects\\NamasteIndia\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\values-v21\\values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 179,
+                    "startColumn": 4,
+                    "startOffset": 13641,
+                    "endColumn": 116,
+                    "endOffset": 13753
+                },
+                "from": {
+                    "file": "C:\\Users\\Kavita\\AndroidStudioProjects\\NamasteIndia\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\values-v21\\values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 180,
+                    "startColumn": 4,
+                    "startOffset": 13758,
+                    "endLine": 182,
+                    "endColumn": 12,
+                    "endOffset": 13930
+                },
+                "from": {
+                    "file": "C:\\Users\\Kavita\\AndroidStudioProjects\\NamasteIndia\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\values-v21\\values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 183,
+                    "startColumn": 4,
+                    "startOffset": 13935,
+                    "endColumn": 98,
+                    "endOffset": 14029
+                },
+                "from": {
+                    "file": "C:\\Users\\Kavita\\AndroidStudioProjects\\NamasteIndia\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\values-v21\\values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 184,
+                    "startColumn": 4,
+                    "startOffset": 14034,
+                    "endLine": 185,
+                    "endColumn": 12,
+                    "endOffset": 14164
+                },
+                "from": {
+                    "file": "C:\\Users\\Kavita\\AndroidStudioProjects\\NamasteIndia\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\values-v21\\values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 186,
+                    "startColumn": 4,
+                    "startOffset": 14169,
+                    "endLine": 187,
+                    "endColumn": 12,
+                    "endOffset": 14307
+                },
+                "from": {
+                    "file": "C:\\Users\\Kavita\\AndroidStudioProjects\\NamasteIndia\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\values-v21\\values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 188,
+                    "startColumn": 4,
+                    "startOffset": 14312,
+                    "endLine": 189,
+                    "endColumn": 12,
+                    "endOffset": 14442
+                },
+                "from": {
+                    "file": "C:\\Users\\Kavita\\AndroidStudioProjects\\NamasteIndia\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\values-v21\\values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 190,
+                    "startColumn": 4,
+                    "startOffset": 14447,
+                    "endLine": 191,
+                    "endColumn": 12,
+                    "endOffset": 14561
+                },
+                "from": {
+                    "file": "C:\\Users\\Kavita\\AndroidStudioProjects\\NamasteIndia\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\values-v21\\values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 192,
+                    "startColumn": 4,
+                    "startOffset": 14566,
+                    "endLine": 195,
+                    "endColumn": 12,
+                    "endOffset": 14762
+                },
+                "from": {
+                    "file": "C:\\Users\\Kavita\\AndroidStudioProjects\\NamasteIndia\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\values-v21\\values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 196,
+                    "startColumn": 4,
+                    "startOffset": 14767,
+                    "endLine": 197,
+                    "endColumn": 12,
+                    "endOffset": 14881
+                },
+                "from": {
+                    "file": "C:\\Users\\Kavita\\AndroidStudioProjects\\NamasteIndia\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\values-v21\\values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 198,
+                    "startColumn": 4,
+                    "startOffset": 14886,
+                    "endColumn": 92,
+                    "endOffset": 14974
+                },
+                "from": {
+                    "file": "C:\\Users\\Kavita\\AndroidStudioProjects\\NamasteIndia\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\values-v21\\values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 199,
+                    "startColumn": 4,
+                    "startOffset": 14979,
+                    "endColumn": 110,
+                    "endOffset": 15085
+                },
+                "from": {
+                    "file": "C:\\Users\\Kavita\\AndroidStudioProjects\\NamasteIndia\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\values-v21\\values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 200,
+                    "startColumn": 4,
+                    "startOffset": 15090,
+                    "endColumn": 55,
+                    "endOffset": 15141
+                },
+                "from": {
+                    "file": "C:\\Users\\Kavita\\AndroidStudioProjects\\NamasteIndia\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\values-v21\\values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 201,
+                    "startColumn": 4,
+                    "startOffset": 15146,
+                    "endLine": 202,
+                    "endColumn": 12,
+                    "endOffset": 15248
+                },
+                "from": {
+                    "file": "C:\\Users\\Kavita\\AndroidStudioProjects\\NamasteIndia\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\values-v21\\values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 203,
+                    "startColumn": 4,
+                    "startOffset": 15253,
+                    "endLine": 206,
+                    "endColumn": 12,
+                    "endOffset": 15443
+                },
+                "from": {
+                    "file": "C:\\Users\\Kavita\\AndroidStudioProjects\\NamasteIndia\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\values-v21\\values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 207,
+                    "startColumn": 4,
+                    "startOffset": 15448,
+                    "endLine": 208,
+                    "endColumn": 12,
+                    "endOffset": 15554
+                },
+                "from": {
+                    "file": "C:\\Users\\Kavita\\AndroidStudioProjects\\NamasteIndia\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\values-v21\\values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 209,
+                    "startColumn": 4,
+                    "startOffset": 15559,
+                    "endLine": 210,
+                    "endColumn": 12,
+                    "endOffset": 15687
+                },
+                "from": {
+                    "file": "C:\\Users\\Kavita\\AndroidStudioProjects\\NamasteIndia\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\values-v21\\values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 211,
+                    "startColumn": 4,
+                    "startOffset": 15692,
+                    "endColumn": 94,
+                    "endOffset": 15782
+                },
+                "from": {
+                    "file": "C:\\Users\\Kavita\\AndroidStudioProjects\\NamasteIndia\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\values-v21\\values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 212,
+                    "startColumn": 4,
+                    "startOffset": 15787,
+                    "endColumn": 90,
+                    "endOffset": 15873
+                },
+                "from": {
+                    "file": "C:\\Users\\Kavita\\AndroidStudioProjects\\NamasteIndia\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\values-v21\\values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 213,
+                    "startColumn": 4,
+                    "startOffset": 15878,
+                    "endColumn": 90,
+                    "endOffset": 15964
+                },
+                "from": {
+                    "file": "C:\\Users\\Kavita\\AndroidStudioProjects\\NamasteIndia\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\values-v21\\values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 214,
+                    "startColumn": 4,
+                    "startOffset": 15969,
+                    "endColumn": 116,
+                    "endOffset": 16081
+                },
+                "from": {
+                    "file": "C:\\Users\\Kavita\\AndroidStudioProjects\\NamasteIndia\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\values-v21\\values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 215,
+                    "startColumn": 4,
+                    "startOffset": 16086,
+                    "endLine": 216,
+                    "endColumn": 12,
+                    "endOffset": 16220
+                },
+                "from": {
+                    "file": "C:\\Users\\Kavita\\AndroidStudioProjects\\NamasteIndia\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\values-v21\\values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 217,
+                    "startColumn": 4,
+                    "startOffset": 16225,
+                    "endLine": 226,
+                    "endColumn": 12,
+                    "endOffset": 16733
+                },
+                "from": {
+                    "file": "C:\\Users\\Kavita\\AndroidStudioProjects\\NamasteIndia\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\values-v21\\values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 227,
+                    "startColumn": 4,
+                    "startOffset": 16738,
+                    "endLine": 236,
+                    "endColumn": 12,
+                    "endOffset": 17258
+                },
+                "from": {
+                    "file": "C:\\Users\\Kavita\\AndroidStudioProjects\\NamasteIndia\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\values-v21\\values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 237,
+                    "startColumn": 4,
+                    "startOffset": 17263,
+                    "endLine": 246,
+                    "endColumn": 12,
+                    "endOffset": 17938
+                },
+                "from": {
+                    "file": "C:\\Users\\Kavita\\AndroidStudioProjects\\NamasteIndia\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\values-v21\\values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 247,
+                    "startColumn": 4,
+                    "startOffset": 17943,
+                    "endColumn": 56,
+                    "endOffset": 17995
+                },
+                "from": {
+                    "file": "C:\\Users\\Kavita\\AndroidStudioProjects\\NamasteIndia\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\values-v21\\values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 248,
+                    "startColumn": 4,
+                    "startOffset": 18000,
+                    "endColumn": 57,
+                    "endOffset": 18053
+                },
+                "from": {
+                    "file": "C:\\Users\\Kavita\\AndroidStudioProjects\\NamasteIndia\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\values-v21\\values-v21.xml"
+                }
+            }
+        ]
+    }
+]

@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.android.namasteindia">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".hindiLanguage"
+            android:label="@string/title_activity_hindi"
+            android:parentActivityName=".MainActivity">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.android.namasteindia.MainActivity" />
+        </activity>
+        <activity
+            android:name=".MarathiLanguage"
+            android:label="@string/title_activity_marathi"
+            android:parentActivityName=".MainActivity">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.android.namasteindia.MainActivity" />
+        </activity>
+        <activity
+            android:name=".GujaratiLanguage"
+            android:label="@string/title_activity_gujarati"
+            android:parentActivityName=".MainActivity">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.android.namasteindia.MainActivity" />
+        </activity>
+        <activity
+            android:name=".TamilLanguage"
+            android:label="@string/title_activity_tamil"
+            android:parentActivityName=".MainActivity">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.android.namasteindia.MainActivity" />
+        </activity>
+        <activity
+            android:name=".BengaliLanguage"
+            android:label="@string/title_activity_bengali"
+            android:parentActivityName=".MainActivity">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.android.namasteindia.MainActivity" />
+        </activity>
+        <activity
+            android:name=".KannadaLanguage"
+            android:label="@string/title_activity_kannada"
+            android:parentActivityName=".MainActivity">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.android.namasteindia.MainActivity" />
+        </activity>
+        <activity
+            android:name=".AboutInfo"
+            android:label="@string/title_activity_about"
+            android:parentActivityName=".MainActivity">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.android.namasteindia.MainActivity" />
+        </activity>
+    </application>
+
+</manifest>
